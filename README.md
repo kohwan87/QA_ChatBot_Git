@@ -1,9 +1,9 @@
 # QA_ChatBot_Git
 ![7](https://user-images.githubusercontent.com/65326326/85998442-cba02000-ba45-11ea-9b4f-8caeeb2eb228.png)
 
-Bert 기반 Question&Answering(Squad)를 설명한 코드입니다.
+Bert 기반 Question&Answering(Squad)를 설명한 코드입니다. Data는 Korquad를 이용하였고, 구글에서 공개한 Bert_base 모델에 Fine tuning을 통해 학습하였습니다. 
 
-Data는 Korquad를 이용하였고, 구글에서 공개한 Bert_base 모델에 Fine tuning을 통해 학습하였습니다.
+학습을 하는데 워낙 오랜 시간이 걸리므로, 이미 Bert_base 모델과 파인 튜닝 학습한 model의 h5를 같이 업로드 해두었습니다.(각각 약 700MB, 깃헙에서 다운로드 받을 때 h5만 따로 다운로드 받으셔야 합니다.)
 
 (자세한 코드는 https://github.com/kimwoonggon/publicservant_AI 를 참고하였습니다.)
 

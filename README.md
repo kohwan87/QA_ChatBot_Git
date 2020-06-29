@@ -4,7 +4,7 @@ Bert 기반 Question&Answering(Squad)를 설명한 코드입니다.
 
 Data는 Korquad를 이용하였고, 구글에서 공개한 Bert_base 모델에 Fine tuning을 통해 학습하였습니다.
 
-(자세한 코드는 https://github.com/kimwoonggon/publicservant_AI 를 많이 참고하였습니다.)
+(자세한 코드는 https://github.com/kimwoonggon/publicservant_AI 를 참고하였습니다.)
 
 가령 다음과 같은 작업이 가능합니다.
 
@@ -32,3 +32,5 @@ A2. 플라톤 다면체
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 또한, django를 이용하여 챗봇을 로컬서버에서 구현할 수 있도록 하였습니다.
+
+(https://github.com/tkdlek11112/faq_chatbot_example 의 프레임과 코드를 이용하였습니다.)

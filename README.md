@@ -1,4 +1,5 @@
 # QA_ChatBot_Git
+![7](https://user-images.githubusercontent.com/65326326/85998442-cba02000-ba45-11ea-9b4f-8caeeb2eb228.png)
 
 Bert 기반 Question&Answering(Squad)를 설명한 코드입니다.
 
